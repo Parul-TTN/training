@@ -1,0 +1,7 @@
+Priority order would be-
+
+
+
+P1    system properties (-D)
+
+P2    sling.properties file
